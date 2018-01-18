@@ -72,6 +72,7 @@ public class GuessMyColor extends JFrame{
 		targetPanel.setPreferredSize(size);
 		targetPanel.setSize(getPreferredSize());
 		
+		//panel in the middle with messages on it
 		
 		//my color
 		//JPanel myColorPanel = new JPanel();
